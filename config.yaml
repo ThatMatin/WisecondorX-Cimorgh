@@ -1,0 +1,7 @@
+docker:
+  input-dir: "/Users/matinahmadi/Documents/CIMORGH/Wisecondor/input"
+  output-dir: "/Users/matinahmadi/Documents/CIMORGH/Wisecondor/output"
+  name: wisecondor
+  # change to false if you haven't built the image from Dockerfile yet
+  build: true
+  platform: linux/x86-64
