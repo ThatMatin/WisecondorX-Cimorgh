@@ -11,3 +11,4 @@ After the config setup you just run the python script and provide any argument t
 ```
 python main.py ...args
 ```
+! don't call it like `python main.py WisecondorX convert ...` but rather `python main.py convert ...`
